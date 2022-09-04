@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Frontend Days Siliguri"
+date:   2022-09-04
+---
+
 # Frontend Days Siliguri
 
 ![image](https://user-images.githubusercontent.com/46371923/188299551-bdf0dbba-8163-46ad-a5ef-e54984511a71.png)
