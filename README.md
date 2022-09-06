@@ -19,3 +19,7 @@ You can find the source code for Minima & Jekyll at GitHub:
 #### GitHub Pages
 - [Collaborate with others with Markdown and GitHub Pages](https://docs.microsoft.com/en-us/learn/paths/collaborate-markdown-github-pages/)
 - [Create and host web sites by using GitHub Pages](https://docs.microsoft.com/en-us/learn/modules/create-host-web-sites-github-pages/)
+
+#### Cheatsheet
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
