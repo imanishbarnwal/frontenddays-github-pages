@@ -34,6 +34,7 @@ You can find the source code for Minima & Jekyll at GitHub:
 #### Cheatsheet
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Markdown Cheatsheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 
 
 ### You may connect with me here:
